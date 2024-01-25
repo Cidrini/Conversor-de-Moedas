@@ -1,0 +1,34 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image: url("https://www.launch-marketing.com/wp-content/uploads/2012/01/GettyImages-1127556731.jpg");
+    background-color: rgb(218, 96, 96);
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+
+  .tittle {
+    color: antiquewhite;
+  }
+  
+  .page-logo {
+    width: 30px;
+  }
+  
+  .dolar-logo {
+    width: 300px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+  }
+  
+  body > img {
+    margin: 0 10px;
+  }
+  
+  img {
+    max-height: 200px;
+  }
+  
